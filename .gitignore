@@ -1,5 +1,6 @@
 # Executáveis e objetos de compilação
 *.exe
+trabalho3
 *.o
 *.obj
 
