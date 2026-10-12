@@ -1,0 +1,8 @@
+# Executáveis e objetos de compilação
+*.exe
+*.o
+*.obj
+
+# Vídeos gravados pelo programa
+*.avi
+*.mp4
